@@ -2,7 +2,7 @@
 
 ![App Icon](/Loop/Assets.xcassets/AppIcon.appiconset/Icon-40%402x.png?raw=true) ![WatchApp Icon](/WatchApp/Assets.xcassets/AppIcon.appiconset/watch-40%402x.png?raw=true)
 
-[![Build Status](https://travis-ci.org/LoopKit/Loop.svg?branch=master)](https://travis-ci.org/LoopKit/Loop)
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=580251b2ab36c201005503b2&branch=justin-master&build=latest)](https://dashboard.buddybuild.com/apps/580251b2ab36c201005503b2/build/latest)
 [![Join the chat at https://gitter.im/LoopKit/Loop](https://badges.gitter.im/LoopKit/Loop.svg)](https://gitter.im/LoopKit/Loop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Loop is an app template for building an artificial pancreas. It is a stone resting on the boulders of work done by [@bewest](https://github.com/bewest/decoding-carelink), [@ps2](https://github.com/ps2/rileylink) and many others.
