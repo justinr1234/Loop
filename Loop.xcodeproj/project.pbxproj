@@ -1224,7 +1224,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: loudnate@gmail.com (XZN842LDLT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: justinr1234@gmail.com (X6UNGY63E3)";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 27;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -1245,7 +1245,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MAIN_APP_BUNDLE_IDENTIFIER = "$(inherited).Loop";
+				MAIN_APP_BUNDLE_IDENTIFIER = "com.barelyvirtual.Loop";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -1276,7 +1276,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: loudnate@gmail.com (XZN842LDLT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: justinr1234@gmail.com (X6UNGY63E3)";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 27;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -1291,7 +1291,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MAIN_APP_BUNDLE_IDENTIFIER = "$(inherited).Loop";
+				MAIN_APP_BUNDLE_IDENTIFIER = "com.barelyvirtual.Loop";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1427,7 +1427,7 @@
 				);
 				INFOPLIST_FILE = DoseMathTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.loudnate.DoseMathTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barelyvirtual.DoseMathTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1443,7 +1443,7 @@
 				);
 				INFOPLIST_FILE = DoseMathTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.loudnate.DoseMathTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barelyvirtual.DoseMathTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -1456,7 +1456,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LoopTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.loudnate.LoopTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barelyvirtual.LoopTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Loop.app/Loop";
 			};
@@ -1470,7 +1470,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LoopTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.loudnate.LoopTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barelyvirtual.LoopTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Loop.app/Loop";
 			};
